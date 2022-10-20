@@ -1,1 +1,2 @@
-# thoaitran2565.github.io
+# Bài tập web bán hàng
+https://techstoretvt.github.io/BT-Web-Ban-Hang/
